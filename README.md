@@ -19,7 +19,7 @@ It's just trading in one set of corpo artwork for another, but I'm happy to kick
 
 Besides, Noto's cuter and now custom emoji I import from Google's [Emoji Kitchen](https://emoji.supply/kitchen) match the unicode emoji on my instance.
 
-# FAQ
+## FAQ
 
 ### Why did all the Noto Emoji disappear after I upgraded my Mastodon instance?
 
@@ -54,7 +54,7 @@ Twemoji included some emoji that Noto Emoji doesn't support, but I still needed 
 | ⛷🏽 Skier, Type-4<br>`U+26F7 U+1F3FD` | ⛷️ Skier<br>`U+26F7 U+FE0F` |
 | ⛷🏾 Skier, Type-5<br>`U+26F7 U+1F3FE` | ⛷️ Skier<br>`U+26F7 U+FE0F` |
 | ⛷🏿 Skier, Type-6<br>`U+26F7 U+1F3FF` | ⛷️ Skier<br>`U+26F7 U+FE0F` |
-|  Shibuya<br>`U+E50A` | Tofu<br>`Modified from 🧈 Butter (U+1F9C8)` |
+|  Shibuya<br>`U+E50A` | Tofu<br>Modified from 🧈 Butter (`U+1F9C8`) |
 
 If the emoji you're talking about aren't in that table, they're probably from [Unicode 15](https://emojipedia.org/emoji-15.0). 
 
