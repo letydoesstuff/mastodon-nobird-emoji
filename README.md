@@ -6,7 +6,7 @@ Replace all dead bird site Twemoji on your Mastodon instance with [Noto Emoji](h
 
 ### A Timeline
 
-- On 2022 September 17th, Mastodon adopted [Twemoji](https://github.com/twitter/twemoji), Twitter's open-source emoji library, to render all emoji in their native web client.<sup>[1](https://github.com/mastodon/mastodon/commit/846cd4e8381c891816cf814582304b534db4ee5f)</sup>
+- On 2017 September 17th, Mastodon adopted [Twemoji](https://github.com/twitter/twemoji), Twitter's open-source emoji library, to render all emoji in their native web client.<sup>[1](https://github.com/mastodon/mastodon/commit/846cd4e8381c891816cf814582304b534db4ee5f)</sup>
 - On 2022 October 27th, Elon Musk bought Twitter. <sup>[2](https://www.latimes.com/business/story/2022-10-27/elon-musk-buys-twitter-44-billion)</sup>
 - On 2022 November 4th, Elon Musk started laying off bunch of Twitter staff.<sup>[3](https://www.latimes.com/entertainment-arts/story/2022-11-04/twitter-layoffs-employee-tweets-elon-musk)</sup>
 - On 2022 November 17th, Jason Sofonia, the designer of Twemoji, departed Twitter.<sup>[4](https://github.com/twitter/twemoji/issues/570#issuecomment-1352347394)</sup>
@@ -33,7 +33,7 @@ Caching issues, probably. Try hard-refreshing your browser, clearing cache stora
 
 Still caching issues, probably. But if you've already read through the stuff I wrote about that, it might be because you're talking about one of the emoji in the table below.
 
-Twemoji included some emoji that Noto Emoji doesn't support, but I still needed to fill in those spots in Mastodon's files. Most of the missing files are just variations of profession and role emojis, so I just had those fallback to the generic Simpsons emoji. That said, it seems there was some tofu in Google's no tofu font after all.
+Twemoji included some emoji that Noto Emoji doesn't support, but I still needed to fill in those spots in Mastodon's files. Most of the missing files are just variations of profession and role emojis, so I just had those fall back to its generic Simpsons form. That said, it seems there was some tofu in Google's no tofu font after all.
 
 | Missing from Noto Emoji | Replaced With |
 |----|----|
