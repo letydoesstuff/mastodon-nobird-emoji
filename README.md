@@ -23,7 +23,7 @@ Besides, Noto's cuter and now custom emoji I import from Google's [Emoji Kitchen
 
 ### Why did all the Noto Emoji disappear after I upgraded my Mastodon instance?
 
-Upgrading your instance will overwrite your modified `emoji` folder with Mastodon's stock images. Just rerun the Nobird Emoji install instructions for your Mastodon version, and they'll be back!
+Upgrading your instance might have overwritten your modified `emoji` folder with Mastodon's stock images. Just rerun the Nobird Emoji install instructions for your Mastodon version, and they'll be back!
 
 ### Why do I still see Twemoji instead of Noto Emoji after restarting Mastodon?
 
